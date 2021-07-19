@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="left"> 
+  <a href="https://github.com/yas-sim/yas-sim/">
+    <img src="https://komarev.com/ghpvc/?username=yas-sim" alt="yutkat" />
+  </a>
+  <a href="http://twitter.com/yas-sim">
+    <img height="20" src="https://img.shields.io/twitter/follow/yas-sim?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://github.com/yas-sim">
+    <img height="20" src="https://img.shields.io/github/followers/yas-sim?label=follow&logo=github&style=flat" />
+  </a>
+</p>
