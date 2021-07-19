@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![yas-sim's GitHub stats](https://github-readme-stats.vercel.app/api?username=yas-sim)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-sim&hide=jupyternotebook)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yas-sim&hide=jupyter)
 ![trophy](https://github-profile-trophy.vercel.app/?username=yas-sim)
 
 <p align="left"> 
